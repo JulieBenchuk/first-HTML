@@ -1,0 +1,45 @@
+.head {
+    color: yellow;
+    background-color: rgb(79, 79, 80);
+    font-size: 30px;
+    border:yellowgreen 2px dotted;
+}   
+.list {
+    color:#8d6a1d;
+    font-size: 30px;
+}
+.socnet {
+    color: rgb(189, 71, 106);
+    font-size: 30px;
+}
+.question {
+    color: #553a00;
+    font-size: 30px;
+    border: rgb(216, 235, 180) 1px outset;
+}
+.socnetOffer {
+    background-color: antiquewhite; 
+    font-size: 30px; 
+    color:rgb(189, 71, 106);
+}
+.pointsOfList {
+    list-style-type: circle;
+}
+.offer {
+    color: rgb(44, 48, 44); font-size: 50px;
+}
+.frameAroundProd {
+    border: 2px orange dotted;
+    padding: 2%;
+}
+.login-password {
+    color: rgb(88, 88, 88);
+    font-size: 15px;
+    font-style: italic;
+}
+.remember {
+    color:rgb(27, 56, 153)
+}
+img {
+    width: 230px;
+}
